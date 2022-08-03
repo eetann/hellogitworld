@@ -1,3 +1,9 @@
+[githubtraining/hellogitworld](https://github.com/githubtraining/hellogitworld)をフォークしたリポジトリです。
+
+以下、元のREADMEを掲載します。
+
+---
+
 This is a sample project students can use during Matthew's Git class.
 
 Here is an addition by me
